@@ -3,23 +3,23 @@
 #### Welcome to Audio Flashcards, a new way to summarize and understand Audio files.
 
 
-### TODO: Update the README with the correct font and letter size. 
+### TODO: Update the README with more detailed description and instructions on how to actually call it.
 
 
 ### Status of the build:
 
-[![GitHub issues](https://img.shields.io/github/issues/david81982/HackOKC-Audio-Flashcards)](https://github.com/david81982/HackOKC-Audio-Flashcards/issues)
+[![GitHub issues](https://img.shields.io/github/issues/NotJoeMartinez/HackOKC-Audio-Flashcards)](https://github.com/NotJoeMartinez/HackOKC-Audio-Flashcards/issues)
 
-[![GitHub forks](https://img.shields.io/github/forks/david81982/HackOKC-Audio-Flashcards)](https://github.com/david81982/HackOKC-Audio-Flashcards/network)
+[![GitHub forks](https://img.shields.io/github/forks/NotJoeMartinez/HackOKC-Audio-Flashcards)](https://github.com/NotJoeMartinez/HackOKC-Audio-Flashcards/network)
 
-[![GitHub stars](https://img.shields.io/github/stars/david81982/HackOKC-Audio-Flashcards)](https://github.com/david81982/HackOKC-Audio-Flashcards/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/NotJoeMartinez/HackOKC-Audio-Flashcards)](https://github.com/NotJoeMartinez/HackOKC-Audio-Flashcards/stargazers)
 
-[![GitHub license](https://img.shields.io/github/license/david81982/HackOKC-Audio-Flashcards)](https://github.com/david81982/HackOKC-Audio-Flashcards)
+[![GitHub license](https://img.shields.io/github/license/NotJoeMartinez/HackOKC-Audio-Flashcards)](https://github.com/NotJoeMartinez/HackOKC-Audio-Flashcards)
 
 
 ### Usage:
 
-#### Using the keywords that the user provides, we are then able to search through an audio file and generate the audio clips that contain said keywords. This will allow for faster understanding and quick summarization of important information. 
+#### Using the keywords that the user provides, it is then able to search through an audio file and generate the audio clips that contain said keywords. This will allow for faster understanding and quick summarization of important information. 
 
 
 ### Contributing:
